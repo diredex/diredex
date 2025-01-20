@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/diredex/diredex/refs/heads/main/DEMO.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/diredex/diredex/refs/heads/main/Banner.png" align="center" style="width: 100%" />
 </div> 
 <h1 align="left">Dire Dex</h1>
 <p align="left">
